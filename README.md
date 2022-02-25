@@ -1,4 +1,16 @@
-# Hi there:wave: I'm Benyamin
+<div align="center" >
+  <h1>Hi there:wave: I'm Benyamin</h1>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" alt="chef" />
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/benyaminmahmoudyan/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/bmahmoudyan">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=bmahmoudyan&style=for-the-badge&color=blueviolet" alt=""/>
+</div>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=bmahmoudyan&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true" alt="Benyamin's GitHub stats"></p>
 
