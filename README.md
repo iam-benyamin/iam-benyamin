@@ -1,6 +1,5 @@
 <div align="center" >
   <h1>Hi there:wave: I'm Benyamin</h1>
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" alt="chef" />
   <div id="badges">
     <a href="https://www.instagram.com/i4m_benyamin/">
       <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,10 +24,6 @@
 </div>
 <br />
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300"/>
-  <br />
-</div>
 <h2> 👨‍💻 About Me:</h2>
 Hi there, I am Benyamin and I am 21 years old in recent 1+ years I have totally focused on web development.<br />
 I am interested in learning new technologies, especially in the world of web development like web3.0, web assembly, system design, and language like go. 
@@ -70,5 +65,3 @@ docker, Linux, Nginx, git.<br />
 <br /><br />
 
 <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iam-benyamin&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true" alt="Benyamin's GitHub stats"></p>
-
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iam-benyamin&amp;show_icons=true&amp;theme=dark&amp;langs_count=10&amp;layout=compact" alt="Top Langs"></a></p>
