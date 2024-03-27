@@ -3,7 +3,7 @@
 Greetings fellow coders! 👋 I'm a results-oriented software engineer with 3 years of hands-on experience, dedicated to pushing the boundaries of what technology can achieve. My passion lies in building robust and efficient software solutions that make a real impact.
 
 👨‍💻 Tech Stack Mastery:\
-I thrive in the realm of code, specializing in Python, Golang, and TypeScript. I bring versatility and expertise to every project from backend systems to dynamic web applications.
+I thrive in code, specializing in Python, Golang, and TypeScript. I bring versatility and expertise to every project from backend systems to dynamic web applications.
 
 🔍 Highlighted Skills:\
 Python Prowess: Harnessing the versatility and power of Python for seamless application development.
